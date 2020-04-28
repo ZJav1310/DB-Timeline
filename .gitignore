@@ -1,0 +1,17 @@
+# Token file
+src/main/java/tokenFile.txt
+*.txt
+
+# IntelliJ
+.idea
+*.iml
+
+# Folders
+.settings
+target
+bin
+test
+
+# Backup files
+*~
+*#
